@@ -327,6 +327,7 @@ main h3 {
 
 .flex1 {
     display: flex;
+    margin-top: 2rem;
     flex-direction: column;
     width: 25%;
     border: 1px solid gray;
@@ -345,10 +346,6 @@ main h3 {
     font-size: 1.7em;
     padding: 1rem;
 } 
-
-.flex2 {
-    margin-top: 2rem;
-}
 
 footer {
     width: 100%;
