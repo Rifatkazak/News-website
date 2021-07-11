@@ -342,7 +342,7 @@ main h3 {
 .flexText {
     width: 100%;
     height: 50%;
-    font-size: 2em;
+    font-size: 1.7em;
     padding: 1rem;
 } 
 
@@ -514,9 +514,7 @@ footer {
     .news4{
         width: 100%;
         margin-top:1rem;
-    }
-
-    
+    } 
 .mainNewsFrame {
     flex-direction: column;
     min-width: 0;
@@ -583,40 +581,19 @@ footer {
     padding-bottom: 1rem;
     text-align: center;
 }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
